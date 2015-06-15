@@ -1,2 +1,2 @@
 # svnserve
-A place store svnserve init script
+A place stores svnserve init script
